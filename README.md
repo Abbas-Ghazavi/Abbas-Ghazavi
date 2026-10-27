@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  <img src="./cyberpunk-setup.png" alt="Cyberpunk coding setup" width="85%"/>
+  <img src="./207.png" alt="Cyberpunk coding setup" width="85%"/>
 
   *Code. Build. Automate. Repeat.*
 
